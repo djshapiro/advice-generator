@@ -2,6 +2,8 @@
 
 // Start with order-1 questions
 
+// Consider making a markov chain viewer or something to help with debugging
+
 // Then do order-1 answers
 
 // Then do order-2 questions
